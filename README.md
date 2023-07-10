@@ -1,1 +1,1 @@
-# algoritma
+c# algoritma mantığı
